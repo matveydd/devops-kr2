@@ -1,3 +1,4 @@
+# KR2: Dvornikov
 import os
 import socket
 
